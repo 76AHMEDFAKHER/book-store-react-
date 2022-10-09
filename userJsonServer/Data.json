@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "usr1",
+            "password": "xyz121",
+            "userType": "normal",
+            "favorites": [],
+            "perchauses": []
+        },
+        {
+            "id": 2,
+            "userName": "usr2",
+            "password": "xyz122",
+            "userType": "normal",
+            "favorites": [],
+            "perchauses": []
+        },
+        {
+            "id": 3,
+            "userName": "usr3",
+            "password": "xyz123",
+            "userType": "admin",
+            "favorites": [],
+            "perchauses": []
+        }
+    ]
+}

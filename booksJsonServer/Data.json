@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "book1",
+            "price": 50,
+            "auther": "auther1",
+            "isDiscount": true,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzSXg4bBL5dHz8DjzVlkYix0Q158844Jrlmzk1wxHMdzTR9wPh88W-CbEn7idNmIXgJM&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "title": "book2",
+            "price": 50,
+            "auther": "auther2",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcSFrjNnq_93pJBv0TplcinzLzNdF9TL7-A&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "title": "book3",
+            "price": 50,
+            "auther": "auther3",
+            "isDiscount": true,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauB26jFt9Ha3NRusTQ7PXuZyMyiuP1erEYA&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "title": "book4",
+            "price": 50,
+            "auther": "auther4",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-hvpOqBMcZDo9u90gjcYXVKruMP-PGNsqQ&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "title": "book5",
+            "price": 50,
+            "auther": "5",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XtNuaO9_bJhFPf_G8Fl32N_bv30Y7vLUXw&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "title": "book6",
+            "price": 50,
+            "auther": "auther6",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRCv5DM80IBHuQ6OeoxUh8z87P4HIqodx5g&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "title": "book7",
+            "price": 50,
+            "auther": "auther7",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqgxf-OTwOcx_tngjRG6d6RoR-6RkQIDDa5ZDAyBKcfg9e8DSvEh_zm-u_iFnuojm8O4&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "title": "book8",
+            "price": 50,
+            "auther": "auther8",
+            "isDiscount": false,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9fkZjbkrrZ-FsEP1rOxG5jjkT16Qqz5O3RcW2jeWl7Em1eK3cX3Cb9R1rO-1J_pnRbiM&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "title": "book9",
+            "price": 50,
+            "auther": "9",
+            "isDiscount": true,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6EhA3WfeG56GaLxYPNWbiNnTwfTEG13xig&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "title": "book10",
+            "price": 50,
+            "auther": "auther10",
+            "isDiscount": true,
+            "publisher": "al-arqam",
+            "preif": "any text hereany text hereany text hereany text hereany text hereany text hereany text hereany text hereany text here" ,
+            "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pZQjJtOgOEmUjqthEaizD_rXjvZuFFITAJeFb8Pm4jGF7sZG35HQ5qbaoV_OF7S9W84&usqp=CAU"
+        }
+    ]
+}
